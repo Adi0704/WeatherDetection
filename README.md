@@ -4,8 +4,8 @@ The user-friendly interface prompts users to input the name of a city. Once subm
 
 Key Features:
 
-User-friendly interface: Input the city name and get instant weather updates.
-Real-time data: Utilizes the OpenWeather API to fetch the most recent weather information.
-Comprehensive weather details: Provides essential weather parameters such as temperature, humidity, wind speed, and atmospheric pressure.
-Customizable: Easy to extend and modify to suit your specific requirements.
-Robust backend: Built on Express and Node.js, ensuring efficient and reliable performance.
+1)User-friendly interface: Input the city name and get instant weather updates.
+2)Real-time data: Utilizes the OpenWeather API to fetch the most recent weather information.
+3)Comprehensive weather details: Provides essential weather parameters such as temperature, humidity, wind speed, and atmospheric pressure.
+4)Customizable: Easy to extend and modify to suit your specific requirements.
+5)Robust backend: Built on Express and Node.js, ensuring efficient and reliable performance.
