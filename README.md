@@ -9,3 +9,13 @@ Key Features:
 3)Comprehensive weather details: Provides essential weather parameters such as temperature, humidity, wind speed, and atmospheric pressure.
 4)Customizable: Easy to extend and modify to suit your specific requirements.
 5)Robust backend: Built on Express and Node.js, ensuring efficient and reliable performance.
+
+Steps to use the application:
+1)Register yourself on openweather API @https://openweathermap.org/
+2)Get your unique API key
+3)Replace (api key) in app.js with the API key generated.
+4)Open any terminal(I have used hyper terminal) and run the following commands:
+	node i express body-parser request
+	node app.js
+ 5)Go to your browser and search for "localhost :3000" to see your application up and running :)
+ 	
